@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp_7_1_ex1_formex:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/jsp_7_1_ex1_formex_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jsp_7_1_ex1_formex/web/웹" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsp_7_1_ex1_formex" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
